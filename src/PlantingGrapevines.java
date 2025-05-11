@@ -2,7 +2,7 @@
  * Planting Grapevines                                            *
  * This program calculates the number of grapevines that will     *
  * fit in a specified row length, accounting for end-post space   *
- * and spacing between the vines.                                *
+ * and spacing between the vines.                                 *
  ******************************************************************/
 
 import java.util.Scanner;
